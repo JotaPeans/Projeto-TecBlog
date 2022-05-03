@@ -1,0 +1,149 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background-color: #e6e6e6;
+    font-size: 1em;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+h1
+{
+    color: #4e4e4e;
+    font-size: 2.5em;
+}
+
+h2
+{
+    font-size: 1.3em;
+    text-align: center;
+    padding: 8px;
+    background-color: #a1a1a1;
+    color: #424242;
+}
+
+p
+{
+    text-align: justify;
+}
+
+.area-lateral p
+{
+    padding: 12px 12px 0px 12px;
+    text-align: justify;
+    margin: 0;
+}
+
+.read-more-L
+{
+    text-decoration: underline;
+    display: block;
+    margin: 0;
+}
+
+a
+{
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #4e4e4e;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#menu-botoes a:hover
+{
+    background-color: #FADF63;
+    border-radius: 15px;
+}
+
+.post a:hover
+{
+    background-color: #FADF63;
+    border-radius: 15px;
+}
+
+a:active
+{
+    background-color: #FA8E00;
+}
+
+.branco
+{
+    color: white;
+}
+
+#menu
+{
+    background-color: #f7b600;
+    padding: 20px;
+    text-align: center;
+}
+
+#menu-logo, #menu-botoes
+{
+    padding: 15px;
+}
+
+#area-principal
+{
+    width: 945px;
+    margin: 0px auto;
+    padding: 10px;
+}
+
+.post
+{
+    float: left;
+    width: 660px;
+    background: rgb(243, 243, 243);
+    padding: 15px;
+}
+
+#titulo-post
+{
+    font-size: 1.7em;
+    margin-bottom: 10px;
+}
+
+#imagem-post
+{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.area-lateral
+{
+    float: right;
+    width: 240px;
+    background: rgb(243, 243, 243);
+}
+
+#rodape
+{
+    margin-top: 10px;
+    clear: both;
+    background: #4e4e4e;
+    color: #e6e6e6;
+    text-align: center;
+    font-size: 1.2em;
+    padding: 30px 0;
+}
+
+.space
+{
+    clear: both;
+    height: 5px;
+}
+
+.read-more
+{
+    display: block;
+    width: 72px;
+    text-align: center;
+    margin: 10px 0 0 0;
+}
+
